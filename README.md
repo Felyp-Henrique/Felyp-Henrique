@@ -18,7 +18,7 @@ Here, some project I have made and I liked them:
 
 Here, some tecnologies I have learning or worked:
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,java,lua,git,linux,neovim,docker,nginx)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=go,python,java,lua,git,linux,neovim,docker,nginx,jenkins&perline=8)
 
 ## GitHub Stats
 
