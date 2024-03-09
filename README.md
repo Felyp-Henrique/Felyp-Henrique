@@ -1,4 +1,4 @@
-# Hello There! <img src="./assets/hello.gif" width="30px">
+# Hello there! <img src="./assets/hello.gif" width="30px">
 
 * I'm software developer from Brazil;
 * I'm Unix enthusiast;
